@@ -177,5 +177,5 @@ To stop the monitoring application, press `Ctrl+C` in your terminal or command p
 
 ## Result
 
-![alt text](<Screenshot 2025-04-23 220325.png>)
+![alt text](<screenshots/Screenshot 2025-04-23 220325.png>)
 
