@@ -1,4 +1,4 @@
-# Installation and running instructions
+# Installation and running Instructions:
 
 
 ## Clone the Repository
